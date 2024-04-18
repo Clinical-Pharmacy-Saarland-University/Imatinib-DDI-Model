@@ -1,0 +1,4290 @@
+{
+  "Version": 79,
+  "ExpressionProfiles": [
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP3A4",
+      "Category": "16.1-2_Filppula 2013_European_male",
+      "Parameters": [
+        {
+          "Path": "CYP3A4|Reference concentration",
+          "Value": 4.32,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0041682898325
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00078691079081
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0053603428126
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00042695753798
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP3A4"
+      }
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "ABCB1",
+      "Category": "16.1-2_Filppula 2013_European_male",
+      "Parameters": [
+        {
+          "Path": "ABCB1|Reference concentration",
+          "Value": 1.41,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "ABCB1|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "ABCB1|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0242518189
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|ABCB1|Relative expression",
+          "Value": 0.07608904
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|ABCB1|Relative expression",
+          "Value": 0.017417973
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0419198107
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|ABCB1|Relative expression",
+          "Value": 0.7092198582
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1108416465
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1916810427
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1916810427
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0657549316
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0128342959
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0142510688
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|ABCB1|Relative expression",
+          "Value": 0.2808543974
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0742555692
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0260852897
+        }
+      ],
+      "TransportType": "Efflux",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainInterstitialToPlasma",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainTissueToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "EffluxBloodCellsToPlasma"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "EffluxInterstitialToPlasma"
+        }
+      ]
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "OATP1B1",
+      "Category": "16.1-2_Filppula 2013_European_male",
+      "Parameters": [
+        {
+          "Path": "OATP1B1|Reference concentration",
+          "Value": 0.07,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "OATP1B1|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "OATP1B1|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.00014166666667
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.0141666667
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.0008253968254
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|OATP1B1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|OATP1B1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
+          "Value": 4.0079365079E-05
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.00064682539683
+        }
+      ],
+      "TransportType": "Influx",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "InfluxBrainPlasmaToInterstitial",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "InfluxBrainInterstitialToTissue",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "InfluxPlasmaToBloodCells"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "InfluxPlasmaToInterstitial"
+        }
+      ]
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP2C8",
+      "Category": "16.1-2_Filppula 2013_European_male",
+      "Parameters": [
+        {
+          "Path": "CYP2C8|Reference concentration",
+          "Value": 2.56,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP2C8|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP2C8|t1/2 (liver)",
+          "Value": 23.000001425,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.00041051218109
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0138116248
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0012660656052
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP2C8|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP2C8|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.00092269326683
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0031843468252
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0031843468252
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0031843468252
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0031843468252
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0031843468252
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0031843468252
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP2C8"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "UGT2B7",
+      "Category": "16.1-2_Filppula 2013_European_male",
+      "Parameters": [
+        {
+          "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
+          "Value": 0.0792387223
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|UGT2B7|Relative expression",
+          "Value": 0.1305041205
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|UGT2B7|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|UGT2B7|Relative expression",
+          "Value": 0.2346862128
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|UGT2B7|Relative expression",
+          "Value": 0.2346862128
+        },
+        {
+          "Path": "Organism|Skin|Intracellular|UGT2B7|Relative expression",
+          "Value": 0.0308645644
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|UGT2B7|Relative expression",
+          "Value": 0.0395483736
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|UGT2B7|Relative expression",
+          "Value": 0.0395483736
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|UGT2B7|Relative expression",
+          "Value": 0.0395483736
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|UGT2B7|Relative expression",
+          "Value": 0.0395483736
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|UGT2B7|Relative expression",
+          "Value": 0.0395483736
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|UGT2B7|Relative expression",
+          "Value": 0.0395483736
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|UGT2B7|Relative expression",
+          "Value": 0.1271028503
+        },
+        {
+          "Path": "UGT2B7|Reference concentration",
+          "Value": 2.78,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "UGT2B7|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "UGT2B7|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "UGT2B7"
+      }
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "Liver_influx_gemfibrozil",
+      "Category": "16.1-2_Filppula 2013_European_male",
+      "Parameters": [
+        {
+          "Path": "Liver_influx_gemfibrozil|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Liver_influx_gemfibrozil|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Liver_influx_gemfibrozil|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|Liver_influx_gemfibrozil|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|Liver_influx_gemfibrozil|Relative expression",
+          "Value": 1.0
+        }
+      ],
+      "TransportType": "Influx",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "InfluxBrainPlasmaToInterstitial",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "InfluxBrainInterstitialToTissue",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "InfluxPlasmaToBloodCells"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "InfluxPlasmaToInterstitial"
+        }
+      ]
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "ABCC2",
+      "Category": "16.1-2_Filppula 2013_European_male",
+      "Parameters": [
+        {
+          "Path": "ABCC2|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "ABCC2|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "ABCC2|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|ABCC2|Relative expression",
+          "Value": 0.0735451232
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|ABCC2|Relative expression",
+          "Value": 0.0613830138
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|ABCC2|Relative expression",
+          "Value": 0.0936269707
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|ABCC2|Relative expression",
+          "Value": 0.051936554
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|ABCC2|Relative expression",
+          "Value": 0.5926872724
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|ABCC2|Relative expression",
+          "Value": 0.1164682164
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|ABCC2|Relative expression",
+          "Value": 0.1164682164
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|ABCC2|Relative expression",
+          "Value": 0.1164682164
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|ABCC2|Relative expression",
+          "Value": 0.1164682164
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|ABCC2|Relative expression",
+          "Value": 0.1164682164
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|ABCC2|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|ABCC2|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|ABCC2|Relative expression",
+          "Value": 0.0636745906
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|ABCC2|Relative expression",
+          "Value": 0.3138789573
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|ABCC2|Relative expression",
+          "Value": 0.5570814661
+        },
+        {
+          "Path": "Organism|Skin|Intracellular|ABCC2|Relative expression",
+          "Value": 0.0322125468
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|ABCC2|Relative expression",
+          "Value": 0.5013856286
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|ABCC2|Relative expression",
+          "Value": 0.5013856286
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|ABCC2|Relative expression",
+          "Value": 0.5013856286
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|ABCC2|Relative expression",
+          "Value": 0.5013856286
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|ABCC2|Relative expression",
+          "Value": 0.5013856286
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|ABCC2|Relative expression",
+          "Value": 0.5013856286
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|ABCC2|Relative expression",
+          "Value": 0.0747125801
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|ABCC2|Relative expression",
+          "Value": 0.0522035824
+        }
+      ],
+      "TransportType": "Efflux",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainInterstitialToPlasma",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainTissueToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "EffluxBloodCellsToPlasma"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "EffluxInterstitialToPlasma"
+        }
+      ]
+    }
+  ],
+  "Individuals": [
+    {
+      "Name": "16.1-2_Filppula 2013_European_male",
+      "Seed": 18661532,
+      "OriginData": {
+        "CalculationMethods": [
+          "Body surface area - Mosteller",
+          "SurfaceAreaPlsInt_VAR1"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 24.0,
+          "Unit": "year(s)"
+        },
+        "Weight": {
+          "Value": 72.0,
+          "Unit": "kg"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "CYP3A4|Ontogeny factor GI",
+          "Value": 0.9690357954
+        },
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|16.1-2_Filppula 2013_European_male",
+        "ABCB1|Human|16.1-2_Filppula 2013_European_male",
+        "OATP1B1|Human|16.1-2_Filppula 2013_European_male",
+        "CYP2C8|Human|16.1-2_Filppula 2013_European_male",
+        "UGT2B7|Human|16.1-2_Filppula 2013_European_male",
+        "Liver_influx_gemfibrozil|Human|16.1-2_Filppula 2013_European_male",
+        "ABCC2|Human|16.1-2_Filppula 2013_European_male"
+      ]
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "Imatinib",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Glycoprotein",
+      "Lipophilicity": [
+        {
+          "Name": "LogP",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.2477698065,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.03
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 0.04,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.4
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 5.8562902909E-07,
+              "Unit": "cm/s",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Acid",
+          "Pka": 12.69,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 7.84,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 4.27,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "IrreversibleInhibition",
+          "DataSource": "Mechanism-based",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "kinact",
+              "Value": 0.072,
+              "Unit": "1/min"
+            },
+            {
+              "Name": "K_kinact_half",
+              "Value": 11.4,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Michaelis-Menten",
+          "Molecule": "CYP3A4",
+          "Metabolite": "N-Desmethyl-Imatinib",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 13.3,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 12.96,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 2.5886754779,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Michaelis-Menten",
+          "Molecule": "CYP2C8",
+          "Metabolite": "N-Desmethyl-Imatinib",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 4.07,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 3.852,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 2.2036851428,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationIntrinsic_FirstOrder",
+          "DataSource": "Clearance",
+          "Species": "Human",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Intrinsic clearance",
+              "Value": 5.7,
+              "Unit": "l/h"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 0.4175984948,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Competitive",
+          "Molecule": "CYP2C8",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 7.56,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransport_InVitro_VesicularAssay_MM",
+          "DataSource": "Michaelis-Menten",
+          "Molecule": "P-gp",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/transporter",
+              "Value": 0.0,
+              "Unit": "nmol/min/pmol transporter"
+            },
+            {
+              "Name": "Km",
+              "Value": 4.0912258151,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 2.9797874272,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Competitive",
+          "Molecule": "P-gp",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 8.0,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Competitive",
+          "Molecule": "BCRP",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.47,
+              "Unit": "µmol/l"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Schmitt",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 493.615,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "N-Desmethyl-Imatinib",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Glycoprotein",
+      "Lipophilicity": [
+        {
+          "Name": "LogP",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.0744795835,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.036
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 0.37,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.4
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Acid",
+          "Pka": 12.69,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 9.23,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 4.45,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationIntrinsic_FirstOrder",
+          "DataSource": "Clearance",
+          "Species": "Human",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Intrinsic clearance",
+              "Value": 0.68,
+              "Unit": "l/h"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 2.4336383008E-05,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationIntrinsic_FirstOrder",
+          "DataSource": "Clearance",
+          "Species": "Human",
+          "Molecule": "CYP2C8",
+          "Parameters": [
+            {
+              "Name": "Intrinsic clearance",
+              "Value": 0.18,
+              "Unit": "l/h"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 0.0107880391,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Hepatic Clearance",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.036
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 3.995,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 7.2211647023,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Competitive",
+          "Molecule": "CYP2C8",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 11.52,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Competitive",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 16.29,
+              "Unit": "µmol/l"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - PK-Sim Standard",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 479.59,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "Gemfibrozil",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "fitted",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.8,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_Gemfibrozil_Gemfibrozil-Glucuronide' "
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Shitara (2004)",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.00648
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Luner, 1994, ohne Profilanpassung",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 0.17,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 5.9
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "final gefittet",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 0.0066239937561,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_Gemfibrozil_Gemfibrozil-Glucuronide' "
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Acid",
+          "Pka": 4.7
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Kajosaari, 2005",
+          "Molecule": "CYP2C8",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 30.4,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Mano (2007) neu",
+          "Molecule": "UGT2B7",
+          "Metabolite": "Gemfibrozil-Glucuronide",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.0,
+              "Unit": "nmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 2.2,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 18.6978,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_Gemfibrozil_Gemfibrozil-Glucuronide' "
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Hirano (2006)",
+          "Molecule": "OATP1B1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 25.2,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransportSpecific_MM",
+          "DataSource": "Test",
+          "Molecule": "Influx",
+          "Parameters": [
+            {
+              "Name": "Transporter concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 0.0,
+              "Unit": "µmol/l/min"
+            },
+            {
+              "Name": "Km",
+              "Value": 2.3911510258,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_Gemfibrozil_Gemfibrozil-Glucuronide' "
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 39.26,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_Gemfibrozil_Gemfibrozil-Glucuronide'"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Berezhkovskiy",
+        "Cellular permeability - Charge dependent Schmitt"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 250.3334,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "Gemfibrozil-Glucuronide",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "fitted",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 1.4079397618,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_Gemfibrozil_Gemfibrozil-Glucuronide'"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Shitara (2004)",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.115
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Drugbank",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 789.0,
+              "Unit": "mg/l"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Acid",
+          "Pka": 2.68
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "IrreversibleInhibition",
+          "DataSource": "Ogilvie, 2006",
+          "Molecule": "CYP2C8",
+          "Parameters": [
+            {
+              "Name": "kinact",
+              "Value": 0.21,
+              "Unit": "1/min"
+            },
+            {
+              "Name": "K_kinact_half",
+              "Value": 20.0,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransportSpecific_MM",
+          "DataSource": "Kimoto (2015) neu",
+          "Molecule": "OATP1B1",
+          "Parameters": [
+            {
+              "Name": "Transporter concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 0.0,
+              "Unit": "µmol/l/min"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.4266025851,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_Gemfibrozil_Gemfibrozil-Glucuronide' "
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 147.0,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_Gemfibrozil_Gemfibrozil-Glucuronide'"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Hirano (2006)",
+          "Molecule": "OATP1B1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 22.6,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransportSpecific_MM",
+          "DataSource": "Kimoto 2015",
+          "Molecule": "ABCC2",
+          "Parameters": [
+            {
+              "Name": "Transporter concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 0.0,
+              "Unit": "µmol/l/min"
+            },
+            {
+              "Name": "Km",
+              "Value": 21.4934597857,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_Gemfibrozil_Gemfibrozil-Glucuronide' "
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 7.1292667138,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_Gemfibrozil_Gemfibrozil-Glucuronide' "
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - PK-Sim Standard",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 426.4575,
+          "Unit": "g/mol"
+        }
+      ]
+    }
+  ],
+  "Formulations": [
+    {
+      "Name": "Imatinib_Glivec_Weibull_Tab",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 4.36,
+          "Unit": "min"
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 0.4431
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Gemfibrozil_Capsule/Tablet",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 24.453410417,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'PI_Gemfibrozil_Gemfibrozil-Glucuronide'"
+          }
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 1.563893822,
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'PI_Gemfibrozil_Gemfibrozil-Glucuronide' "
+          }
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "Imatinib_po_sd_200mg_day3+1h",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 200.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 49.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Gemfibrozil_po_bid_600mg_6days",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 600.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 12.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 12.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "16.1.A_Filppula 2013_male_perm. int. opt._Weibull_CONTROL",
+      "Model": "4Comp",
+      "ObservedData": [
+        "16.1.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL",
+        "16.1.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL"
+      ],
+      "Solver": {
+        "AbsTol": 1E-11
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 150.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Imatinib_po_sd_200mg_day3+1h|Imatinib_Glivec_Weibull_Tab|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Imatinib_po_sd_200mg_day3+1h|Imatinib_Glivec_Weibull_Tab|Application_1|Tablet time delay factor",
+          "Value": 0.2,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "16.1-2_Filppula 2013_European_male",
+      "Compounds": [
+        {
+          "Name": "Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Schmitt",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Michaelis-Menten",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2C8-Michaelis-Menten",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "Name": "P-gp-Michaelis-Menten",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "Liver_influx_gemfibrozil"
+            },
+            {
+              "MoleculeName": "ABCC2"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Imatinib_po_sd_200mg_day3+1h",
+            "Formulations": [
+              {
+                "Name": "Imatinib_Glivec_Weibull_Tab",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-Desmethyl-Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2C8-Clearance",
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Hepatic Clearance",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "Liver_influx_gemfibrozil"
+            },
+            {
+              "MoleculeName": "ABCC2"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "",
+              "Type": "Y2",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Dash",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "16.1.A_Filppula 2013_male_perm. int. opt._Weibull_CONTROL|Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "16.1.A_Filppula 2013_male_perm. int. opt._Weibull_CONTROL|Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "16.1.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "16.1.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL|Time",
+              "Y": "16.1.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "16.1.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL-N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "16.1.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL|Time",
+              "Y": "16.1.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL|ObservedData|Peripheral Venous Blood|Plasma|N-Desmethyl-Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Imatinib_[15]_[20.06.23(1)]_Gemfibrozil DDI_AUFGERÄUMT_AGP\n16.1.A_Filppula 2013_male_perm. int. opt._Weibull_CONTROL\n2024-01-31 12:58"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Mechanism-based",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP3A4-Competitive",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "P-gp-Competitive",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Imatinib"
+        }
+      ]
+    },
+    {
+      "Name": "16.2.A_Filppula 2013_male_perm. int. opt._Weibull_DDI",
+      "Model": "4Comp",
+      "ObservedData": [
+        "16.2.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI",
+        "16.2.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI"
+      ],
+      "Solver": {
+        "AbsTol": 1E-11
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 150.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Imatinib_po_sd_200mg_day3+1h|Imatinib_Glivec_Weibull_Tab|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Gemfibrozil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Gemfibrozil-Glucuronide|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "16.1-2_Filppula 2013_European_male",
+      "Compounds": [
+        {
+          "Name": "Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Schmitt",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Michaelis-Menten",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2C8-Michaelis-Menten",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "Name": "P-gp-Michaelis-Menten",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "Liver_influx_gemfibrozil"
+            },
+            {
+              "MoleculeName": "ABCC2"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Imatinib_po_sd_200mg_day3+1h",
+            "Formulations": [
+              {
+                "Name": "Imatinib_Glivec_Weibull_Tab",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-Desmethyl-Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2C8-Clearance",
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Hepatic Clearance",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "Liver_influx_gemfibrozil"
+            },
+            {
+              "MoleculeName": "ABCC2"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Gemfibrozil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - Charge dependent Schmitt"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "final gefittet",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "Name": "UGT2B7-Mano (2007) neu",
+              "MoleculeName": "UGT2B7",
+              "MetaboliteName": "Gemfibrozil-Glucuronide"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "Name": "Influx-Test",
+              "MoleculeName": "Liver_influx_gemfibrozil"
+            },
+            {
+              "MoleculeName": "ABCC2"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Gemfibrozil_po_bid_600mg_6days",
+            "Formulations": [
+              {
+                "Name": "Gemfibrozil_Capsule/Tablet",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Gemfibrozil-Glucuronide",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "OATP1B1-Kimoto (2015) neu",
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "Liver_influx_gemfibrozil"
+            },
+            {
+              "Name": "ABCC2-Kimoto 2015",
+              "MoleculeName": "ABCC2"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "16.2.A_Filppula 2013_male_perm. int. opt._Weibull_DDI|Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "16.2.A_Filppula 2013_male_perm. int. opt._Weibull_DDI|Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "16.2.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI-N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "16.2.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI|Time",
+              "Y": "16.2.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI|ObservedData|Peripheral Venous Blood|Plasma|N-Desmethyl-Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "16.2.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "16.2.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI|Time",
+              "Y": "16.2.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Gemfibrozil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "16.2.A_Filppula 2013_male_perm. int. opt._Weibull_DDI|Organism|PeripheralVenousBlood|Gemfibrozil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Visible": false,
+                "Color": "#FF8000",
+                "LegendIndex": 5
+              }
+            },
+            {
+              "Name": "Gemfibrozil-Glucuronide-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "16.2.A_Filppula 2013_male_perm. int. opt._Weibull_DDI|Organism|PeripheralVenousBlood|Gemfibrozil-Glucuronide|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Visible": false,
+                "Color": "#00C0C0",
+                "LegendIndex": 6
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Imatinib_[15]_[20.06.23(1)]_Gemfibrozil DDI_AUFGERÄUMT_AGP\n16.2.A_Filppula 2013_male_perm. int. opt._Weibull_DDI\n2024-01-31 13:00"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Mechanism-based",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "P-gp-Competitive",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP3A4-Competitive",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "OATP1B1-Hirano (2006)",
+          "MoleculeName": "OATP1B1",
+          "CompoundName": "Gemfibrozil"
+        },
+        {
+          "Name": "CYP2C8-Kajosaari, 2005",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "Gemfibrozil"
+        },
+        {
+          "Name": "OATP1B1-Hirano (2006)",
+          "MoleculeName": "OATP1B1",
+          "CompoundName": "Gemfibrozil-Glucuronide"
+        },
+        {
+          "Name": "CYP2C8-Ogilvie, 2006",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "Gemfibrozil-Glucuronide"
+        }
+      ]
+    },
+    {
+      "Name": "16.1.B_Filppula 2013_male_perm. int. opt._Weibull_CONTROL",
+      "Model": "4Comp",
+      "ObservedData": [
+        "16.1.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL"
+      ],
+      "Solver": {
+        "AbsTol": 1E-11
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 150.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Imatinib_po_sd_200mg_day3+1h|Imatinib_Glivec_Weibull_Tab|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "16.1-2_Filppula 2013_European_male",
+      "Compounds": [
+        {
+          "Name": "Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Schmitt",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Michaelis-Menten",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2C8-Michaelis-Menten",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "Name": "P-gp-Michaelis-Menten",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "Liver_influx_gemfibrozil"
+            },
+            {
+              "MoleculeName": "ABCC2"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Imatinib_po_sd_200mg_day3+1h",
+            "Formulations": [
+              {
+                "Name": "Imatinib_Glivec_Weibull_Tab",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-Desmethyl-Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2C8-Clearance",
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Hepatic Clearance",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "Liver_influx_gemfibrozil"
+            },
+            {
+              "MoleculeName": "ABCC2"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "16.1.B_Filppula 2013_male_perm. int. opt._Weibull_CONTROL|Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "16.1.B_Filppula 2013_male_perm. int. opt._Weibull_CONTROL|Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "16.1.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL-N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "16.1.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL|Time",
+              "Y": "16.1.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL|ObservedData|Peripheral Venous Blood|Plasma|N-Desmethyl-Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Imatinib_[15]_[20.06.23(1)]_Gemfibrozil DDI_AUFGERÄUMT_AGP\n16.1.B_Filppula 2013_male_perm. int. opt._Weibull_CONTROL\n2024-01-31 12:59"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Mechanism-based",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP3A4-Competitive",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "P-gp-Competitive",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Imatinib"
+        }
+      ]
+    },
+    {
+      "Name": "16.2.B_Filppula 2013_male_perm. int. opt._Weibull_DDI",
+      "Model": "4Comp",
+      "ObservedData": [
+        "16.2.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI",
+        "16.2.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI"
+      ],
+      "Solver": {
+        "AbsTol": 1E-11
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 150.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Gemfibrozil_po_bid_600mg_6days|Gemfibrozil_Capsule/Tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Imatinib_po_sd_200mg_day3+1h|Imatinib_Glivec_Weibull_Tab|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Gemfibrozil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Gemfibrozil-Glucuronide|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "16.1-2_Filppula 2013_European_male",
+      "Compounds": [
+        {
+          "Name": "Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Schmitt",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Michaelis-Menten",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2C8-Michaelis-Menten",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "Name": "P-gp-Michaelis-Menten",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "Liver_influx_gemfibrozil"
+            },
+            {
+              "MoleculeName": "ABCC2"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Imatinib_po_sd_200mg_day3+1h",
+            "Formulations": [
+              {
+                "Name": "Imatinib_Glivec_Weibull_Tab",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-Desmethyl-Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP2C8-Clearance",
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "MoleculeName": "UGT2B7"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Hepatic Clearance",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "Liver_influx_gemfibrozil"
+            },
+            {
+              "MoleculeName": "ABCC2"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Gemfibrozil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - Charge dependent Schmitt"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "final gefittet",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "Name": "UGT2B7-Mano (2007) neu",
+              "MoleculeName": "UGT2B7",
+              "MetaboliteName": "Gemfibrozil-Glucuronide"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "Name": "Influx-Test",
+              "MoleculeName": "Liver_influx_gemfibrozil"
+            },
+            {
+              "MoleculeName": "ABCC2"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Gemfibrozil_po_bid_600mg_6days",
+            "Formulations": [
+              {
+                "Name": "Gemfibrozil_Capsule/Tablet",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Gemfibrozil-Glucuronide",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "OATP1B1-Kimoto (2015) neu",
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "Liver_influx_gemfibrozil"
+            },
+            {
+              "Name": "ABCC2-Kimoto 2015",
+              "MoleculeName": "ABCC2"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "16.2.B_Filppula 2013_male_perm. int. opt._Weibull_DDI|Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "16.2.B_Filppula 2013_male_perm. int. opt._Weibull_DDI|Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "16.2.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI-N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "16.2.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI|Time",
+              "Y": "16.2.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI|ObservedData|Peripheral Venous Blood|Plasma|N-Desmethyl-Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "16.2.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "16.2.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI|Time",
+              "Y": "16.2.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Imatinib_[15]_[20.06.23(1)]_Gemfibrozil DDI_AUFGERÄUMT_AGP\n16.2.B_Filppula 2013_male_perm. int. opt._Weibull_DDI\n2024-01-31 13:01"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Mechanism-based",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "P-gp-Competitive",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP3A4-Competitive",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "OATP1B1-Hirano (2006)",
+          "MoleculeName": "OATP1B1",
+          "CompoundName": "Gemfibrozil"
+        },
+        {
+          "Name": "CYP2C8-Kajosaari, 2005",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "Gemfibrozil"
+        },
+        {
+          "Name": "OATP1B1-Hirano (2006)",
+          "MoleculeName": "OATP1B1",
+          "CompoundName": "Gemfibrozil-Glucuronide"
+        },
+        {
+          "Name": "CYP2C8-Ogilvie, 2006",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "Gemfibrozil-Glucuronide"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "16.2.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "16.2.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI|ObservedData|Peripheral Venous Blood|Plasma|N-Desmethyl-Imatinib|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 479.59
+          },
+          "Values": [
+            0.021534,
+            0.052255,
+            0.060508,
+            0.055480998,
+            0.046507,
+            0.0410540029,
+            0.037664,
+            0.035257,
+            0.028887,
+            0.019111,
+            0.01053,
+            0.007009,
+            0.004929
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "16.2.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          49.507,
+          50.0020027,
+          50.496,
+          51.012,
+          52.0,
+          53.003,
+          55.001,
+          57.0,
+          61.004,
+          72.994,
+          96.996994,
+          121.006996,
+          145.002991
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "16.2.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Imatinib"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "16.2.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 493.615
+          },
+          "Values": [
+            0.11338,
+            0.381549984,
+            0.53482,
+            0.5902,
+            0.65103,
+            0.66912,
+            0.64024,
+            0.558270037,
+            0.41983,
+            0.208040014,
+            0.0528400019,
+            0.0181100015,
+            0.00811
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "16.2.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          49.499,
+          49.999,
+          50.485,
+          51.008,
+          51.996,
+          53.006,
+          54.997,
+          56.996,
+          61.001,
+          73.0,
+          96.996994,
+          121.006996,
+          144.996
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "16.1.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Imatinib"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "16.1.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 493.615
+          },
+          "Values": [
+            0.138230011,
+            0.56142,
+            0.862509966,
+            0.98547,
+            1.02547991,
+            1.03235006,
+            0.777269959,
+            0.62204,
+            0.407399982,
+            0.17958,
+            0.04565,
+            0.01538,
+            0.00385999982
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "16.1.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          49.499,
+          50.005,
+          50.505,
+          51.006,
+          52.001,
+          52.997,
+          55.004,
+          56.996,
+          60.994,
+          72.9930038,
+          97.0040054,
+          121.0,
+          144.996
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "16.1.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "16.1.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL|ObservedData|Peripheral Venous Blood|Plasma|N-Desmethyl-Imatinib|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 479.59
+          },
+          "Values": [
+            0.0989420041,
+            0.131743,
+            0.141257,
+            0.120542,
+            0.115531005,
+            0.090574,
+            0.075885,
+            0.058265,
+            0.036125,
+            0.017997,
+            0.012544,
+            0.008303
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "16.1.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          50.0020027,
+          50.504,
+          50.9979973,
+          52.001,
+          52.996,
+          55.0020027,
+          57.0,
+          61.0109978,
+          73.002,
+          97.0040054,
+          121.006996,
+          144.996
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ],
+  "ObservedDataClassifications": [
+    {
+      "Name": "16_Filppula 2013",
+      "Classifiables": [
+        "16.1.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL",
+        "16.2.A_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI",
+        "16.1.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_CONTROL",
+        "16.2.B_Filppula 2013_po(tab)_200 mg_sd_fasted_P_H_DDI"
+      ]
+    }
+  ],
+  "SimulationClassifications": [
+    {
+      "Name": "Gemfibrozil_DDI",
+      "Classifiables": [
+        "16.1.A_Filppula 2013_male_perm. int. opt._Weibull_CONTROL",
+        "16.1.B_Filppula 2013_male_perm. int. opt._Weibull_CONTROL",
+        "16.2.A_Filppula 2013_male_perm. int. opt._Weibull_DDI",
+        "16.2.B_Filppula 2013_male_perm. int. opt._Weibull_DDI"
+      ]
+    }
+  ]
+}

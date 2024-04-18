@@ -1,0 +1,5642 @@
+{
+  "Version": 79,
+  "ExpressionProfiles": [
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP3A4",
+      "Category": "18.1-2_Dutreix 2004_European_male",
+      "Parameters": [
+        {
+          "Path": "CYP3A4|Reference concentration",
+          "Value": 4.32,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0041682898325
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00078691079081
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0053603428126
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00042695753798
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP3A4"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "AADAC",
+      "Category": "18.1-2_Dutreix 2004_European_male",
+      "Parameters": [
+        {
+          "Path": "AADAC|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "AADAC|Relative expression in blood cells",
+          "Value": 3.9102564103E-05
+        },
+        {
+          "Path": "AADAC|Relative expression in plasma",
+          "Value": 3.9102564103E-05
+        },
+        {
+          "Path": "AADAC|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "AADAC|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
+          "Value": 4.8717948718E-05
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
+          "Value": 3.9743589744E-05
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
+          "Value": 0.0011923076923
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|AADAC|Relative expression",
+          "Value": 0.0026602564103
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
+          "Value": 5.7051282051E-05
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|AADAC|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|AADAC|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|AADAC|Relative expression",
+          "Value": 0.0269230769
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|AADAC|Relative expression",
+          "Value": 0.00020833333333
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|AADAC|Relative expression",
+          "Value": 0.1474358974
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|AADAC|Relative expression",
+          "Value": 0.00037115384615
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|AADAC|Relative expression",
+          "Value": 0.0775641026
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome"
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "ABCB1",
+      "Category": "18.1-2_Dutreix 2004_European_male",
+      "Parameters": [
+        {
+          "Path": "ABCB1|Reference concentration",
+          "Value": 1.41,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "ABCB1|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "ABCB1|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0242518189
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|ABCB1|Relative expression",
+          "Value": 0.07608904
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|ABCB1|Relative expression",
+          "Value": 0.017417973
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0419198107
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|ABCB1|Relative expression",
+          "Value": 0.7092198582
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1108416465
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1916810427
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1916810427
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0657549316
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0128342959
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0142510688
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|ABCB1|Relative expression",
+          "Value": 0.2808543974
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0742555692
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0260852897
+        }
+      ],
+      "TransportType": "Efflux",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainInterstitialToPlasma",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainTissueToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "EffluxBloodCellsToPlasma"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "EffluxInterstitialToPlasma"
+        }
+      ]
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "PON3",
+      "Category": "18.1-2_Dutreix 2004_European_male",
+      "Parameters": [
+        {
+          "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
+          "Value": 0.0817420412
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|PON3|Relative expression",
+          "Value": 0.0596208803
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|PON3|Relative expression",
+          "Value": 0.1475612443
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|PON3|Relative expression",
+          "Value": 0.0453507655
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|PON3|Relative expression",
+          "Value": 0.1178589285
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|PON3|Relative expression",
+          "Value": 0.0624455433
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|PON3|Relative expression",
+          "Value": 0.0624455433
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|PON3|Relative expression",
+          "Value": 0.0624455433
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|PON3|Relative expression",
+          "Value": 0.0624455433
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|PON3|Relative expression",
+          "Value": 0.0624455433
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|PON3|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|PON3|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|PON3|Relative expression",
+          "Value": 0.1785749861
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|PON3|Relative expression",
+          "Value": 0.0434120147
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|PON3|Relative expression",
+          "Value": 0.067403684
+        },
+        {
+          "Path": "Organism|Skin|Intracellular|PON3|Relative expression",
+          "Value": 0.1307438544
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|PON3|Relative expression",
+          "Value": 0.0904397952
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|PON3|Relative expression",
+          "Value": 0.0904397952
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|PON3|Relative expression",
+          "Value": 0.0904397952
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|PON3|Relative expression",
+          "Value": 0.0904397952
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|PON3|Relative expression",
+          "Value": 0.0904397952
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|PON3|Relative expression",
+          "Value": 0.0904397952
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|PON3|Relative expression",
+          "Value": 0.0599732583
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|PON3|Relative expression",
+          "Value": 0.0863065596
+        },
+        {
+          "Path": "PON3|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "PON3|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "PON3|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome"
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP2C8",
+      "Category": "18.1-2_Dutreix 2004_European_male",
+      "Parameters": [
+        {
+          "Path": "CYP2C8|Reference concentration",
+          "Value": 2.56,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP2C8|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP2C8|t1/2 (liver)",
+          "Value": 23.000001425,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.00041051218109
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0138116248
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0012660656052
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP2C8|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP2C8|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.00092269326683
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0031843468252
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0031843468252
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0031843468252
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0031843468252
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0031843468252
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0031843468252
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP2C8"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "UGT1A4",
+      "Category": "18.1-2_Dutreix 2004_European_male",
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|UGT1A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|UGT1A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "UGT1A4|Reference concentration",
+          "Value": 2.32,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "UGT1A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "UGT1A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "UGT1A4"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "FMO3",
+      "Category": "18.1-2_Dutreix 2004_European_male",
+      "Parameters": [
+        {
+          "Path": "FMO3|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "FMO3|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "FMO3|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|FMO3|Relative expression",
+          "Value": 0.0110455764
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|FMO3|Relative expression",
+          "Value": 0.00057908847185
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|FMO3|Relative expression",
+          "Value": 0.00065549597855
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|FMO3|Relative expression",
+          "Value": 0.0042761394102
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|FMO3|Relative expression",
+          "Value": 0.0049731903485
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|FMO3|Relative expression",
+          "Value": 0.00024262734584
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|FMO3|Relative expression",
+          "Value": 0.00024262734584
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|FMO3|Relative expression",
+          "Value": 0.00024262734584
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|FMO3|Relative expression",
+          "Value": 0.00024262734584
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|FMO3|Relative expression",
+          "Value": 0.00024262734584
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|FMO3|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|FMO3|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|FMO3|Relative expression",
+          "Value": 0.021849866
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|FMO3|Relative expression",
+          "Value": 0.0086997319035
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|FMO3|Relative expression",
+          "Value": 0.0021715817694
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|FMO3|Relative expression",
+          "Value": 0.00086193029491
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|FMO3|Relative expression",
+          "Value": 0.00086193029491
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|FMO3|Relative expression",
+          "Value": 0.00086193029491
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|FMO3|Relative expression",
+          "Value": 0.00086193029491
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|FMO3|Relative expression",
+          "Value": 0.00086193029491
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|FMO3|Relative expression",
+          "Value": 0.00086193029491
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|FMO3|Relative expression",
+          "Value": 0.00015013404826
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|FMO3|Relative expression",
+          "Value": 0.0075469168901
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome"
+    }
+  ],
+  "Individuals": [
+    {
+      "Name": "18.1-2_Dutreix 2004_European_male",
+      "Seed": 433545562,
+      "OriginData": {
+        "CalculationMethods": [
+          "Body surface area - Mosteller",
+          "SurfaceAreaPlsInt_VAR1"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 47.0,
+          "Unit": "year(s)"
+        },
+        "Weight": {
+          "Value": 83.5,
+          "Unit": "kg"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "ExpressionProfiles": [
+        "AADAC|Human|18.1-2_Dutreix 2004_European_male",
+        "CYP3A4|Human|18.1-2_Dutreix 2004_European_male",
+        "UGT1A4|Human|18.1-2_Dutreix 2004_European_male",
+        "FMO3|Human|18.1-2_Dutreix 2004_European_male",
+        "CYP2C8|Human|18.1-2_Dutreix 2004_European_male",
+        "ABCB1|Human|18.1-2_Dutreix 2004_European_male"
+      ]
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "Imatinib",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Glycoprotein",
+      "Lipophilicity": [
+        {
+          "Name": "LogP",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.2477698065,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.03
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 0.04,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.4
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 5.8562902909E-07,
+              "Unit": "cm/s",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Acid",
+          "Pka": 12.69,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 7.84,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 4.27,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "IrreversibleInhibition",
+          "DataSource": "Mechanism-based",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "kinact",
+              "Value": 0.072,
+              "Unit": "1/min"
+            },
+            {
+              "Name": "K_kinact_half",
+              "Value": 11.4,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Michaelis-Menten",
+          "Molecule": "CYP3A4",
+          "Metabolite": "N-Desmethyl-Imatinib",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 13.3,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 12.96,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 2.5886754779,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Michaelis-Menten",
+          "Molecule": "CYP2C8",
+          "Metabolite": "N-Desmethyl-Imatinib",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 4.07,
+              "Unit": "pmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 3.852,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 2.2036851428,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationIntrinsic_FirstOrder",
+          "DataSource": "Clearance",
+          "Species": "Human",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Intrinsic clearance",
+              "Value": 5.7,
+              "Unit": "l/h"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 0.4175984948,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Competitive",
+          "Molecule": "CYP2C8",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 7.56,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransport_InVitro_VesicularAssay_MM",
+          "DataSource": "Michaelis-Menten",
+          "Molecule": "P-gp",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/transporter",
+              "Value": 0.0,
+              "Unit": "nmol/min/pmol transporter"
+            },
+            {
+              "Name": "Km",
+              "Value": 4.0912258151,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 2.9797874272,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Competitive",
+          "Molecule": "P-gp",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 8.0,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Competitive",
+          "Molecule": "BCRP",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.47,
+              "Unit": "µmol/l"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Schmitt",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 493.615,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "N-Desmethyl-Imatinib",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Glycoprotein",
+      "Lipophilicity": [
+        {
+          "Name": "LogP",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.0744795835,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.036
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 0.37,
+              "Unit": "mg/ml"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.4
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Acid",
+          "Pka": 12.69,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 9.23,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 4.45,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationIntrinsic_FirstOrder",
+          "DataSource": "Clearance",
+          "Species": "Human",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Intrinsic clearance",
+              "Value": 0.68,
+              "Unit": "l/h"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 2.4336383008E-05,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationIntrinsic_FirstOrder",
+          "DataSource": "Clearance",
+          "Species": "Human",
+          "Molecule": "CYP2C8",
+          "Parameters": [
+            {
+              "Name": "Intrinsic clearance",
+              "Value": 0.18,
+              "Unit": "l/h"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 0.0107880391,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Hepatic Clearance",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.036
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 3.995,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 7.2211647023,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Competitive",
+          "Molecule": "CYP2C8",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 11.52,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Competitive",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 16.29,
+              "Unit": "µmol/l"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - PK-Sim Standard",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 479.59,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "ketoconazole",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "fit",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.5243939623,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Heel 1982",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.01,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Ghazal 2005",
+          "Parameters": [
+            {
+              "Name": "Solubility table",
+              "Value": 12872590000000.0,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Extrapolated from observed data"
+              },
+              "TableFormula": {
+                "Name": "Solubility",
+                "XName": "pH",
+                "XDimension": "Dimensionless",
+                "YName": "Solubility",
+                "YDimension": "Concentration (mass)",
+                "YUnit": "mg/l",
+                "UseDerivedValues": false,
+                "Points": [
+                  {
+                    "X": 0.0500000007450581,
+                    "Y": 12872590000000.0,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.100000001490116,
+                    "Y": 239688100000.00003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.150000005960464,
+                    "Y": 23315790000.000004,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.200000002980232,
+                    "Y": 4463003000.0,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.25,
+                    "Y": 1237899000.0,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.300000011920929,
+                    "Y": 434140900.0,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.349999994039536,
+                    "Y": 179014200.0,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.400000005960464,
+                    "Y": 83101300.0,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.449999988079071,
+                    "Y": 42231280.0,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.5,
+                    "Y": 23049740.0,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.550000011920929,
+                    "Y": 13328530.000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.600000023841858,
+                    "Y": 8083721.0000000009,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.649999976158142,
+                    "Y": 5103093.0000000009,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.699999988079071,
+                    "Y": 3333252.0,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.75,
+                    "Y": 2242175.0,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.800000011920929,
+                    "Y": 1547349.0000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.850000023841858,
+                    "Y": 1092134.0,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.899999976158142,
+                    "Y": 786348.1,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 0.949999988079071,
+                    "Y": 576327.00000000012,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.0,
+                    "Y": 429187.0,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.04999995231628,
+                    "Y": 324243.80000000005,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.10000002384186,
+                    "Y": 248177.7,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.14999997615814,
+                    "Y": 192227.80000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.20000004768372,
+                    "Y": 150519.2,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.25,
+                    "Y": 119043.20000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.29999995231628,
+                    "Y": 95019.8,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.35000002384186,
+                    "Y": 76492.420000000013,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.39999997615814,
+                    "Y": 62065.280000000006,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.45000004768372,
+                    "Y": 50729.98,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.5,
+                    "Y": 41749.380000000005,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.54999995231628,
+                    "Y": 34578.83,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.60000002384186,
+                    "Y": 28811.710000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.64999997615814,
+                    "Y": 24141.62,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.70000004768372,
+                    "Y": 20335.579999999998,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.75,
+                    "Y": 17214.99,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.79999995231628,
+                    "Y": 14641.83,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.85000002384186,
+                    "Y": 12508.66,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.89999997615814,
+                    "Y": 10731.23,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 1.95000004768372,
+                    "Y": 9243.1,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.0,
+                    "Y": 7991.4789999999994,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.04999995231628,
+                    "Y": 6934.212,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.09999990463257,
+                    "Y": 6037.432,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.15000009536743,
+                    "Y": 5273.7890000000007,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.20000004768372,
+                    "Y": 4621.0790000000006,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.25,
+                    "Y": 4061.1930000000007,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.29999995231628,
+                    "Y": 3579.288,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.34999990463257,
+                    "Y": 3163.148,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.40000009536743,
+                    "Y": 2802.674,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.45000004768372,
+                    "Y": 2489.4829999999997,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.5,
+                    "Y": 2216.59,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.54999995231628,
+                    "Y": 1978.1540000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.59999990463257,
+                    "Y": 1769.272,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.65000009536743,
+                    "Y": 1585.815,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.70000004768372,
+                    "Y": 1424.292,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.75,
+                    "Y": 1281.745,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.79999995231628,
+                    "Y": 1155.658,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.84999990463257,
+                    "Y": 1043.886,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.90000009536743,
+                    "Y": 944.5942,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 2.95000004768372,
+                    "Y": 856.2083,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.0,
+                    "Y": 777.37520000000006,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.04999995231628,
+                    "Y": 706.9283,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.09999990463257,
+                    "Y": 643.8592,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.15000009536743,
+                    "Y": 587.2943,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.20000004768372,
+                    "Y": 536.4752,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.25,
+                    "Y": 490.74160000000006,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.29999995231628,
+                    "Y": 449.51790000000005,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.34999990463257,
+                    "Y": 412.3007,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.40000009536743,
+                    "Y": 378.6494,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.45000004768372,
+                    "Y": 348.1771,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.5,
+                    "Y": 320.5439,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.54999995231628,
+                    "Y": 295.45020000000005,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.59999990463257,
+                    "Y": 272.6315,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.65000009536743,
+                    "Y": 251.85440000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.70000004768372,
+                    "Y": 232.91170000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.75,
+                    "Y": 215.6199,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.79999995231628,
+                    "Y": 199.81600000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.84999990463257,
+                    "Y": 185.3548,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.90000009536743,
+                    "Y": 172.10690000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 3.95000004768372,
+                    "Y": 159.95690000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.0,
+                    "Y": 148.8017,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.05000019073486,
+                    "Y": 138.5487,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.09999990463257,
+                    "Y": 129.11530000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.15000009536743,
+                    "Y": 120.42710000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.19999980926514,
+                    "Y": 112.41720000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.25,
+                    "Y": 105.02560000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.30000019073486,
+                    "Y": 98.19816,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.34999990463257,
+                    "Y": 91.88589,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.40000009536743,
+                    "Y": 86.04468,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.44999980926514,
+                    "Y": 80.63463,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.5,
+                    "Y": 75.61957,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.55000019073486,
+                    "Y": 70.96677,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.59999990463257,
+                    "Y": 66.646490000000014,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.65000009536743,
+                    "Y": 62.631730000000005,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.69999980926514,
+                    "Y": 58.89795,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.75,
+                    "Y": 55.42279,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.80000019073486,
+                    "Y": 52.185900000000004,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.84999990463257,
+                    "Y": 49.168710000000004,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.90000009536743,
+                    "Y": 46.354260000000004,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 4.94999980926514,
+                    "Y": 43.72708,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.0,
+                    "Y": 41.272990000000007,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.05000019073486,
+                    "Y": 38.97903,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.09999990463257,
+                    "Y": 36.83331,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.15000009536743,
+                    "Y": 34.824940000000005,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.19999980926514,
+                    "Y": 32.943920000000006,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.25,
+                    "Y": 31.181070000000005,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.30000019073486,
+                    "Y": 29.52794,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.34999990463257,
+                    "Y": 27.976760000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.40000009536743,
+                    "Y": 26.52037,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.44999980926514,
+                    "Y": 25.15219,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.5,
+                    "Y": 23.86614,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.55000019073486,
+                    "Y": 22.6566,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.59999990463257,
+                    "Y": 21.5184,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.65000009536743,
+                    "Y": 20.446740000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.69999980926514,
+                    "Y": 19.4372,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.75,
+                    "Y": 18.485680000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.80000019073486,
+                    "Y": 17.58838,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.84999990463257,
+                    "Y": 16.741789999999998,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.90000009536743,
+                    "Y": 15.942630000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 5.94999980926514,
+                    "Y": 15.187890000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.0,
+                    "Y": 14.47476,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.05000019073486,
+                    "Y": 13.80061,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.09999990463257,
+                    "Y": 13.163030000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.15000009536743,
+                    "Y": 12.55976,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.19999980926514,
+                    "Y": 11.98868,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.25,
+                    "Y": 11.447849999999999,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.30000019073486,
+                    "Y": 10.93544,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.34999990463257,
+                    "Y": 10.44975,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.40000009536743,
+                    "Y": 9.9891890000000014,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.44999980926514,
+                    "Y": 9.5522759999999991,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.5,
+                    "Y": 9.137629,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.55000019073486,
+                    "Y": 8.743953,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.59999990463257,
+                    "Y": 8.370041,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.65000009536743,
+                    "Y": 8.014761,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.69999980926514,
+                    "Y": 7.6770559999999994,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.75,
+                    "Y": 7.355933,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.80000019073486,
+                    "Y": 7.050466,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.84999990463257,
+                    "Y": 6.759784,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.90000009536743,
+                    "Y": 6.483072,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 6.94999980926514,
+                    "Y": 6.2195630000000008,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.0,
+                    "Y": 5.96854,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.05000019073486,
+                    "Y": 5.7293280000000006,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.09999990463257,
+                    "Y": 5.5012940000000006,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.15000009536743,
+                    "Y": 5.283841,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.19999980926514,
+                    "Y": 5.07641,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.25,
+                    "Y": 4.878475,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.30000019073486,
+                    "Y": 4.6895380000000007,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.34999990463257,
+                    "Y": 4.509135,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.40000009536743,
+                    "Y": 4.336825,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.44999980926514,
+                    "Y": 4.172194,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.5,
+                    "Y": 4.014852,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.55000019073486,
+                    "Y": 3.8644300000000005,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.59999990463257,
+                    "Y": 3.7205820000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.65000009536743,
+                    "Y": 3.582979,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.69999980926514,
+                    "Y": 3.4513130000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.75,
+                    "Y": 3.3252910000000004,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.80000019073486,
+                    "Y": 3.2046370000000004,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.84999990463257,
+                    "Y": 3.0890910000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.90000009536743,
+                    "Y": 2.978404,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 7.94999980926514,
+                    "Y": 2.872345,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.0,
+                    "Y": 2.770693,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.05000019073486,
+                    "Y": 2.673238,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.10000038146973,
+                    "Y": 2.579783,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.14999961853027,
+                    "Y": 2.4901400000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.19999980926514,
+                    "Y": 2.404132,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.25,
+                    "Y": 2.321591,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.30000019073486,
+                    "Y": 2.242357,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.35000038146973,
+                    "Y": 2.166279,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.39999961853027,
+                    "Y": 2.093213,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.44999980926514,
+                    "Y": 2.0230240000000004,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.5,
+                    "Y": 1.955582,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.55000019073486,
+                    "Y": 1.8907640000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.60000038146973,
+                    "Y": 1.828454,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.64999961853027,
+                    "Y": 1.76854,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.69999980926514,
+                    "Y": 1.710919,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.75,
+                    "Y": 1.655489,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.80000019073486,
+                    "Y": 1.602155,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.85000038146973,
+                    "Y": 1.550828,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.89999961853027,
+                    "Y": 1.5014200000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 8.94999980926514,
+                    "Y": 1.45385,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.0,
+                    "Y": 1.40804,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.05000019073486,
+                    "Y": 1.363915,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.10000038146973,
+                    "Y": 1.321404,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.14999961853027,
+                    "Y": 1.280441,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.19999980926514,
+                    "Y": 1.24096,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.25,
+                    "Y": 1.202901,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.30000019073486,
+                    "Y": 1.1662050000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.35000038146973,
+                    "Y": 1.1308170000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.39999961853027,
+                    "Y": 1.096682,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.44999980926514,
+                    "Y": 1.0637510000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.5,
+                    "Y": 1.031975,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.55000019073486,
+                    "Y": 1.0013070000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.60000038146973,
+                    "Y": 0.97170360000000011,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.64999961853027,
+                    "Y": 0.94312250000000009,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.69999980926514,
+                    "Y": 0.9155233,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.75,
+                    "Y": 0.8888675,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.80000019073486,
+                    "Y": 0.86311830000000012,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.85000038146973,
+                    "Y": 0.8382403,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.89999961853027,
+                    "Y": 0.8142,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 9.94999980926514,
+                    "Y": 0.7909651,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.0,
+                    "Y": 0.7685048,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.0500001907349,
+                    "Y": 0.74678950000000011,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.1000003814697,
+                    "Y": 0.7257911,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.1499996185303,
+                    "Y": 0.7054824,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.1999998092651,
+                    "Y": 0.68583770000000011,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.25,
+                    "Y": 0.6668321,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.3000001907349,
+                    "Y": 0.64844180000000007,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.3500003814697,
+                    "Y": 0.6306441,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.3999996185303,
+                    "Y": 0.6134172,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.4499998092651,
+                    "Y": 0.59674010000000011,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.5,
+                    "Y": 0.5805928,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.5500001907349,
+                    "Y": 0.5649561,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.6000003814697,
+                    "Y": 0.5498114,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.6499996185303,
+                    "Y": 0.53514120000000009,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.6999998092651,
+                    "Y": 0.5209283,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.75,
+                    "Y": 0.50715660000000007,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.8000001907349,
+                    "Y": 0.4938104,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.8500003814697,
+                    "Y": 0.48087460000000004,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.8999996185303,
+                    "Y": 0.4683349,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 10.9499998092651,
+                    "Y": 0.4561772,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.0,
+                    "Y": 0.4443885,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.0500001907349,
+                    "Y": 0.4329558,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.1000003814697,
+                    "Y": 0.4218668,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.1499996185303,
+                    "Y": 0.41110990000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.1999998092651,
+                    "Y": 0.4006735,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.25,
+                    "Y": 0.3905467,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.3000001907349,
+                    "Y": 0.38071920000000004,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.3500003814697,
+                    "Y": 0.37118070000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.3999996185303,
+                    "Y": 0.3619215,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.4499998092651,
+                    "Y": 0.35293230000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.5,
+                    "Y": 0.3442041,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.5500001907349,
+                    "Y": 0.3357283,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.6000003814697,
+                    "Y": 0.3274964,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.6499996185303,
+                    "Y": 0.3195004,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.6999998092651,
+                    "Y": 0.31173270000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.75,
+                    "Y": 0.3041858,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.8000001907349,
+                    "Y": 0.29685249999999996,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.8500003814697,
+                    "Y": 0.28972580000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.8999996185303,
+                    "Y": 0.2827992,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 11.9499998092651,
+                    "Y": 0.2760662,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.0,
+                    "Y": 0.2695206,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.0500001907349,
+                    "Y": 0.2631564,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.1000003814697,
+                    "Y": 0.25696800000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.1499996185303,
+                    "Y": 0.2509497,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.1999998092651,
+                    "Y": 0.24509620000000004,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.25,
+                    "Y": 0.23940240000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.3000001907349,
+                    "Y": 0.2338632,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.3500003814697,
+                    "Y": 0.2284739,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.3999996185303,
+                    "Y": 0.22322980000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.4499998092651,
+                    "Y": 0.2181264,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.5,
+                    "Y": 0.2131595,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.5500001907349,
+                    "Y": 0.2083248,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.6000003814697,
+                    "Y": 0.20361840000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.6499996185303,
+                    "Y": 0.19903630000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.6999998092651,
+                    "Y": 0.1945748,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.75,
+                    "Y": 0.1902302,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.8000001907349,
+                    "Y": 0.1859991,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.8500003814697,
+                    "Y": 0.18187810000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.8999996185303,
+                    "Y": 0.17786380000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 12.9499998092651,
+                    "Y": 0.1739531,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.0,
+                    "Y": 0.170143,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.0500001907349,
+                    "Y": 0.1664305,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.1000003814697,
+                    "Y": 0.1628128,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.1499996185303,
+                    "Y": 0.15928699999999998,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.1999998092651,
+                    "Y": 0.1558505,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.25,
+                    "Y": 0.1525007,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.3000001907349,
+                    "Y": 0.1492352,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.3500003814697,
+                    "Y": 0.14605140000000003,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.3999996185303,
+                    "Y": 0.14294710000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.4499998092651,
+                    "Y": 0.1399199,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.5,
+                    "Y": 0.1369678,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.5500001907349,
+                    "Y": 0.1340885,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.6000003814697,
+                    "Y": 0.13128,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.6499996185303,
+                    "Y": 0.1285403,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.6999998092651,
+                    "Y": 0.12586750000000002,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.75,
+                    "Y": 0.12325970000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.8000001907349,
+                    "Y": 0.1207151,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.8500003814697,
+                    "Y": 0.11823190000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.8999996185303,
+                    "Y": 0.11580850000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 13.9499998092651,
+                    "Y": 0.11344320000000001,
+                    "RestartSolver": false
+                  },
+                  {
+                    "X": 14.0,
+                    "Y": 0.1111345,
+                    "RestartSolver": false
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Fit fasted",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 1.5597039897E-05,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Fit fed",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 9.9497068191E-06,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 6.51,
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 2.94,
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Assumed",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.008461538,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption",
+                "Description": "Assumed from Ki value from Weiss 2022"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.1020204084,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransportSpecific_MM",
+          "DataSource": "Assumed",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Transporter concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 0.0,
+              "Unit": "µmol/l/min"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.04,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption",
+                "Description": "Assumed from Ki value from Weiss 2022"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.326999715,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ],
+          "Description": "A transporter mediated unidirectional transfer of a compound across a cellular membrane is described as saturable process following Michaelis-Menten type kinetics. The corresponding kcat value is calculated from a specific Vmax as input value."
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Bourcier 2010",
+          "Molecule": "UGT1A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.0,
+              "Unit": "nmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 7.0,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "recombinant enzymes"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.3062809592,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Weiss 2022",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.008461538,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Calculated fom IC50 and corrected for fumic"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Fukami 2016",
+          "Molecule": "AADAC",
+          "Metabolite": "n-deacetyl-ketoconazole",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 28.3,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Km",
+              "Value": 1.8797,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Corrected with fu mic (17.5*0.107)"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.8694012741,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Weiss 2022",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.035238095,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Calculated fom IC50"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Test",
+          "Molecule": "OATP1B3",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 3.85,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "NoncompetitiveInhibition",
+          "DataSource": "Test",
+          "Molecule": "CYP2C8",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 2.5,
+              "Unit": "µmol/l"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Berezhkovskiy",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0,
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 531.43,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        },
+        {
+          "Name": "Treat precipitated drug as",
+          "Value": 0.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Name": "Aqueous diffusion coefficient",
+          "Value": 3.7482784124E-07,
+          "Unit": "dm²/min",
+          "ValueOrigin": {
+            "Id": 32,
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification"
+          }
+        },
+        {
+          "Name": "Density (drug)",
+          "Value": 1.4,
+          "Unit": "g/cm³",
+          "ValueOrigin": {
+            "Id": 32,
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "ChemSpider"
+          }
+        },
+        {
+          "Name": "Enable supersaturation",
+          "Value": 1.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "n-deacetyl-ketoconazole",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Fit",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.7501327278,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Assumed",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 1.0,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption",
+                "Description": "assumed from value for ketoconazole"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Chemicalize",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 1.24,
+              "Unit": "mg/ml",
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "Other",
+                "Description": "Chemicalize"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5,
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "Other",
+                "Description": "Chemicalize"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 8.9,
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 6.42,
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 0.2,
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Weiss 2022",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.022,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Calculated fom IC50 and corrected for fumic"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Rodriguez 1997",
+          "Molecule": "FMO3",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.0,
+              "Unit": "pmol/min/mg mic. protein"
+            },
+            {
+              "Name": "Km",
+              "Value": 1.167401215,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "recombinant enzymes"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 378.6506200467,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ],
+          "Description": "Metabolic enzyme activity is described as saturable process following Michaelis-Menten kinetics. Specific Vmax is calculated from Vmax determined in an in vitro assay using liver microsome s."
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Weiss 2022",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.119047619,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Calculated fom IC50"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Test",
+          "Molecule": "OATP1B3",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 10.6,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Test",
+          "Molecule": "ABCG2",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 9.9,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "NoncompetitiveInhibition",
+          "DataSource": "Test",
+          "Molecule": "CYP2C8",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 2.5,
+              "Unit": "µmol/l"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - Charge dependent Schmitt"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0,
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 489.4,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "n-deacetyl-n-hydroxy-ketoconazole",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Chemicalize",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 4.2,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "Other",
+                "Description": "Chemicalize"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Assumed",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 1.0,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Assumption",
+                "Description": "assumed from value for ketoconazole"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Chemicalize",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 0.0044,
+              "Unit": "mg/ml",
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "Other",
+                "Description": "Chemicalize"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5,
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "Other",
+                "Description": "Chemicalize"
+              }
+            }
+          ]
+        }
+      ],
+      "Permeability": [
+        {
+          "Name": "Assumed",
+          "Parameters": [
+            {
+              "Name": "Permeability",
+              "Value": 0.0,
+              "Unit": "cm/min"
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 6.42,
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 3.42,
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Weiss 2022",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.022,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption",
+                "Description": "assumed from value for n-deacetyl-ketoconazole"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Weiss 2022",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.119047619,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption",
+                "Description": "assumed from value for n-deacetyl-ketoconazole"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_FirstOrder",
+          "DataSource": "Clearance",
+          "Molecule": "FMO3",
+          "Parameters": [
+            {
+              "Name": "In vitro CL/recombinant enzyme",
+              "Value": 0.0,
+              "Unit": "µl/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "CLspec/[Enzyme]",
+              "Value": 0.0893329451,
+              "Unit": "l/µmol/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Test",
+          "Molecule": "OATP1B3",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 10.6,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Test",
+          "Molecule": "ABCG2",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 9.9,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "NoncompetitiveInhibition",
+          "DataSource": "Test",
+          "Molecule": "CYP2C8",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 2.5,
+              "Unit": "µmol/l"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Berezhkovskiy",
+        "Cellular permeability - Charge dependent Schmitt"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0,
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 505.4,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "Other",
+            "Description": "Chemicalize"
+          }
+        }
+      ]
+    }
+  ],
+  "Formulations": [
+    {
+      "Name": "Imatinib_Glivec_Weibull_Tab",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 4.36,
+          "Unit": "min"
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 0.4431
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "PD_tablet_3Bins_B1",
+      "FormulationType": "Formulation_Particles",
+      "Parameters": [
+        {
+          "Name": "Thickness (unstirred water layer)",
+          "Value": 0.0241053374,
+          "Unit": "mm",
+          "ValueOrigin": {
+            "Id": 32,
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'New_PDiss_SuperSat_ON_unsoluble Feces Weighted V17 + DAK [KTZ (B+PKS) DAK (RR+ChDS)] V21 mit offener Perm und fed studies' on 2021-12-07 15:52"
+          }
+        },
+        {
+          "Name": "Type of particle size distribution",
+          "Value": 0.0
+        },
+        {
+          "Name": "Particle radius (mean)",
+          "Value": 0.011749,
+          "Unit": "mm"
+        }
+      ]
+    },
+    {
+      "Name": "PD_tablet_3Bins_B2",
+      "FormulationType": "Formulation_Particles",
+      "Parameters": [
+        {
+          "Name": "Thickness (unstirred water layer)",
+          "Value": 0.0241053374,
+          "Unit": "mm",
+          "ValueOrigin": {
+            "Id": 32,
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'New_PDiss_SuperSat_ON_unsoluble Feces Weighted V17 + DAK [KTZ (B+PKS) DAK (RR+ChDS)] V21 mit offener Perm und fed studies' on 2021-12-07 15:52"
+          }
+        },
+        {
+          "Name": "Type of particle size distribution",
+          "Value": 0.0
+        },
+        {
+          "Name": "Particle radius (mean)",
+          "Value": 0.11106,
+          "Unit": "mm"
+        }
+      ]
+    },
+    {
+      "Name": "PD_tablet_3Bins_B3",
+      "FormulationType": "Formulation_Particles",
+      "Parameters": [
+        {
+          "Name": "Thickness (unstirred water layer)",
+          "Value": 0.0241053374,
+          "Unit": "mm",
+          "ValueOrigin": {
+            "Id": 32,
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'New_PDiss_SuperSat_ON_unsoluble Feces Weighted V17 + DAK [KTZ (B+PKS) DAK (RR+ChDS)] V21 mit offener Perm und fed studies' on 2021-12-07 15:52"
+          }
+        },
+        {
+          "Name": "Type of particle size distribution",
+          "Value": 0.0
+        },
+        {
+          "Name": "Particle radius (mean)",
+          "Value": 0.20546,
+          "Unit": "mm"
+        }
+      ]
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "Imatinib_po_sd_200mg",
+      "ApplicationType": "Oral",
+      "DosingInterval": "Single",
+      "Parameters": [
+        {
+          "Name": "Start time",
+          "Value": 0.0,
+          "Unit": "h"
+        },
+        {
+          "Name": "InputDose",
+          "Value": 200.0,
+          "Unit": "mg"
+        },
+        {
+          "Name": "Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ]
+    },
+    {
+      "Name": "Ketoconazole_po_sd_PD_tablet_3Bins_400mg",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "PD_tablet_3Bins_B1",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 396.01,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            },
+            {
+              "Name": "Schema Item 2",
+              "ApplicationType": "Oral",
+              "FormulationKey": "PD_tablet_3Bins_B2",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 3.583,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 0.0,
+                  "Unit": "ml/kg"
+                }
+              ]
+            },
+            {
+              "Name": "Schema Item 3",
+              "ApplicationType": "Oral",
+              "FormulationKey": "PD_tablet_3Bins_B3",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 0.40993,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 0.0,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "18.1.A_Dutreix 2004_male_perm. int. opt._Weibull_CONTROL",
+      "Model": "4Comp",
+      "ObservedData": [
+        "18.1.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL",
+        "18.1.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL"
+      ],
+      "Solver": {
+        "AbsTol": 1E-11
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Imatinib_po_sd_200mg|Imatinib_Glivec_Weibull_Tab|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "18.1-2_Dutreix 2004_European_male",
+      "Compounds": [
+        {
+          "Name": "Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Schmitt",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-Michaelis-Menten",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "FMO3"
+            },
+            {
+              "Name": "CYP2C8-Michaelis-Menten",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "Name": "P-gp-Michaelis-Menten",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Imatinib_po_sd_200mg",
+            "Formulations": [
+              {
+                "Name": "Imatinib_Glivec_Weibull_Tab",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-Desmethyl-Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "FMO3"
+            },
+            {
+              "Name": "CYP2C8-Clearance",
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Hepatic Clearance",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "18.1.A_Dutreix 2004_male_perm. int. opt._Weibull_CONTROL|Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "18.1.A_Dutreix 2004_male_perm. int. opt._Weibull_CONTROL|Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "18.1.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "18.1.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL|Time",
+              "Y": "18.1.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "18.1.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "18.1.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL|Time",
+              "Y": "18.1.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Imatinib_[15]_[20.06.23(1)]_Ketoconazole DDI_AUFGERÄUMT_AGP\n18.1.A_Dutreix 2004_male_perm. int. opt._Weibull_CONTROL\n2024-01-31 13:07"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Mechanism-based",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP3A4-Competitive",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "P-gp-Competitive",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Imatinib"
+        }
+      ]
+    },
+    {
+      "Name": "18.1.B_Dutreix 2004_male_perm. int. opt._Weibull_CONTROL",
+      "Model": "4Comp",
+      "ObservedData": [
+        "18.1.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL"
+      ],
+      "Solver": {
+        "AbsTol": 1E-11
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Imatinib_po_sd_200mg|Imatinib_Glivec_Weibull_Tab|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "18.1-2_Dutreix 2004_European_male",
+      "Compounds": [
+        {
+          "Name": "Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Schmitt",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-Michaelis-Menten",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "FMO3"
+            },
+            {
+              "Name": "CYP2C8-Michaelis-Menten",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "Name": "P-gp-Michaelis-Menten",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Imatinib_po_sd_200mg",
+            "Formulations": [
+              {
+                "Name": "Imatinib_Glivec_Weibull_Tab",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-Desmethyl-Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "FMO3"
+            },
+            {
+              "Name": "CYP2C8-Clearance",
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Hepatic Clearance",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "18.1.B_Dutreix 2004_male_perm. int. opt._Weibull_CONTROL|Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "18.1.B_Dutreix 2004_male_perm. int. opt._Weibull_CONTROL|Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "18.1.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "18.1.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL|Time",
+              "Y": "18.1.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Imatinib_[15]_[20.06.23(1)]_Ketoconazole DDI_AUFGERÄUMT_AGP\n18.1.B_Dutreix 2004_male_perm. int. opt._Weibull_CONTROL\n2024-01-31 13:07"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Mechanism-based",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP3A4-Competitive",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "P-gp-Competitive",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Imatinib"
+        }
+      ]
+    },
+    {
+      "Name": "18.2.A_Dutreix 2004_male_perm. int. opt._Weibull_DDI",
+      "Model": "4Comp",
+      "ObservedData": [
+        "18.2.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI",
+        "18.2.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI"
+      ],
+      "Solver": {
+        "AbsTol": 1E-11
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Imatinib_po_sd_200mg|Imatinib_Glivec_Weibull_Tab|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Ketoconazole_po_sd_PD_tablet_3Bins_400mg|PD_tablet_3Bins_B1|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Ketoconazole_po_sd_PD_tablet_3Bins_400mg|PD_tablet_3Bins_B2|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 0.0,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Ketoconazole_po_sd_PD_tablet_3Bins_400mg|PD_tablet_3Bins_B3|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 0.0,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|n-deacetyl-n-hydroxy-ketoconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|n-deacetyl-ketoconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|ketoconazole|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "18.1-2_Dutreix 2004_European_male",
+      "Compounds": [
+        {
+          "Name": "Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Schmitt",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-Michaelis-Menten",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "FMO3"
+            },
+            {
+              "Name": "CYP2C8-Michaelis-Menten",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "Name": "P-gp-Michaelis-Menten",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Imatinib_po_sd_200mg",
+            "Formulations": [
+              {
+                "Name": "Imatinib_Glivec_Weibull_Tab",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-Desmethyl-Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "FMO3"
+            },
+            {
+              "Name": "CYP2C8-Clearance",
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Hepatic Clearance",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "n-deacetyl-n-hydroxy-ketoconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - Charge dependent Schmitt"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Assumed",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "FMO3-Clearance",
+              "MoleculeName": "FMO3"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "n-deacetyl-ketoconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - Charge dependent Schmitt"
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "FMO3-Rodriguez 1997",
+              "MoleculeName": "FMO3",
+              "MetaboliteName": "n-deacetyl-n-hydroxy-ketoconazole"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "ketoconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fit fed",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "AADAC-Fukami 2016",
+              "MoleculeName": "AADAC",
+              "MetaboliteName": "n-deacetyl-ketoconazole"
+            },
+            {
+              "Name": "CYP3A4-Assumed",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "UGT1A4-Bourcier 2010",
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "FMO3"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "Name": "ABCB1-Assumed",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Ketoconazole_po_sd_PD_tablet_3Bins_400mg",
+            "Formulations": [
+              {
+                "Name": "PD_tablet_3Bins_B1",
+                "Key": "PD_tablet_3Bins_B1"
+              },
+              {
+                "Name": "PD_tablet_3Bins_B2",
+                "Key": "PD_tablet_3Bins_B2"
+              },
+              {
+                "Name": "PD_tablet_3Bins_B3",
+                "Key": "PD_tablet_3Bins_B3"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "18.2.A_Dutreix 2004_male_perm. int. opt._Weibull_DDI|Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "18.2.A_Dutreix 2004_male_perm. int. opt._Weibull_DDI|Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "18.2.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "18.2.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI|Time",
+              "Y": "18.2.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "18.2.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI-N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "18.2.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI|Time",
+              "Y": "18.2.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI|ObservedData|Peripheral Venous Blood|Plasma|N-Desmethyl-Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Imatinib_[15]_[20.06.23(1)]_Ketoconazole DDI_AUFGERÄUMT_AGP\n18.2.A_Dutreix 2004_male_perm. int. opt._Weibull_DDI\n2024-01-31 13:08"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Mechanism-based",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP3A4-Competitive",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "CYP3A4-Weiss 2022",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "n-deacetyl-n-hydroxy-ketoconazole"
+        },
+        {
+          "Name": "CYP2C8-Test",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "n-deacetyl-n-hydroxy-ketoconazole"
+        },
+        {
+          "Name": "ABCB1-Weiss 2022",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "n-deacetyl-n-hydroxy-ketoconazole"
+        },
+        {
+          "Name": "CYP3A4-Weiss 2022",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "n-deacetyl-ketoconazole"
+        },
+        {
+          "Name": "CYP2C8-Test",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "n-deacetyl-ketoconazole"
+        },
+        {
+          "Name": "ABCB1-Weiss 2022",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "n-deacetyl-ketoconazole"
+        },
+        {
+          "Name": "CYP3A4-Weiss 2022",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "ketoconazole"
+        },
+        {
+          "Name": "CYP2C8-Test",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "ketoconazole"
+        },
+        {
+          "Name": "ABCB1-Weiss 2022",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "ketoconazole"
+        },
+        {
+          "Name": "P-gp-Competitive",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Imatinib"
+        }
+      ]
+    },
+    {
+      "Name": "18.2.B_Dutreix 2004_male_perm. int. opt._Weibull_DDI",
+      "Model": "4Comp",
+      "ObservedData": [
+        "18.2.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI",
+        "18.2.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI"
+      ],
+      "Solver": {
+        "AbsTol": 1E-11
+      },
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Imatinib_po_sd_200mg|Imatinib_Glivec_Weibull_Tab|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Ketoconazole_po_sd_PD_tablet_3Bins_400mg|PD_tablet_3Bins_B1|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Ketoconazole_po_sd_PD_tablet_3Bins_400mg|PD_tablet_3Bins_B2|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 0.0,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Ketoconazole_po_sd_PD_tablet_3Bins_400mg|PD_tablet_3Bins_B3|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 0.0,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|n-deacetyl-n-hydroxy-ketoconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|n-deacetyl-ketoconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|ketoconazole|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "18.1-2_Dutreix 2004_European_male",
+      "Compounds": [
+        {
+          "Name": "Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Schmitt",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-Michaelis-Menten",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "FMO3"
+            },
+            {
+              "Name": "CYP2C8-Michaelis-Menten",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-Desmethyl-Imatinib"
+            },
+            {
+              "Name": "P-gp-Michaelis-Menten",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Imatinib_po_sd_200mg",
+            "Formulations": [
+              {
+                "Name": "Imatinib_Glivec_Weibull_Tab",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-Desmethyl-Imatinib",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-Clearance",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "FMO3"
+            },
+            {
+              "Name": "CYP2C8-Clearance",
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Hepatic Clearance",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "n-deacetyl-n-hydroxy-ketoconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - Charge dependent Schmitt"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Assumed",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "FMO3-Clearance",
+              "MoleculeName": "FMO3"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "n-deacetyl-ketoconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - Charge dependent Schmitt"
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "FMO3-Rodriguez 1997",
+              "MoleculeName": "FMO3",
+              "MetaboliteName": "n-deacetyl-n-hydroxy-ketoconazole"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "ketoconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fit fed",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "AADAC-Fukami 2016",
+              "MoleculeName": "AADAC",
+              "MetaboliteName": "n-deacetyl-ketoconazole"
+            },
+            {
+              "Name": "CYP3A4-Assumed",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "UGT1A4-Bourcier 2010",
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "FMO3"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
+              "Name": "ABCB1-Assumed",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Ketoconazole_po_sd_PD_tablet_3Bins_400mg",
+            "Formulations": [
+              {
+                "Name": "PD_tablet_3Bins_B1",
+                "Key": "PD_tablet_3Bins_B1"
+              },
+              {
+                "Name": "PD_tablet_3Bins_B2",
+                "Key": "PD_tablet_3Bins_B2"
+              },
+              {
+                "Name": "PD_tablet_3Bins_B3",
+                "Key": "PD_tablet_3Bins_B3"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "18.2.B_Dutreix 2004_male_perm. int. opt._Weibull_DDI|Organism|PeripheralVenousBlood|Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "18.2.B_Dutreix 2004_male_perm. int. opt._Weibull_DDI|Organism|PeripheralVenousBlood|N-Desmethyl-Imatinib|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "18.2.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "18.2.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI|Time",
+              "Y": "18.2.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "18.2.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI-N-Desmethyl-Imatinib-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "18.2.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI|Time",
+              "Y": "18.2.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI|ObservedData|Peripheral Venous Blood|Plasma|N-Desmethyl-Imatinib|Measurement",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Imatinib_[15]_[20.06.23(1)]_Ketoconazole DDI_AUFGERÄUMT_AGP\n18.2.B_Dutreix 2004_male_perm. int. opt._Weibull_DDI\n2024-01-31 13:08"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Mechanism-based",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "P-gp-Competitive",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Imatinib"
+        },
+        {
+          "Name": "CYP3A4-Competitive",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "CYP2C8-Competitive",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "CYP3A4-Weiss 2022",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "n-deacetyl-n-hydroxy-ketoconazole"
+        },
+        {
+          "Name": "CYP2C8-Test",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "n-deacetyl-n-hydroxy-ketoconazole"
+        },
+        {
+          "Name": "ABCB1-Weiss 2022",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "n-deacetyl-n-hydroxy-ketoconazole"
+        },
+        {
+          "Name": "CYP3A4-Weiss 2022",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "n-deacetyl-ketoconazole"
+        },
+        {
+          "Name": "CYP2C8-Test",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "n-deacetyl-ketoconazole"
+        },
+        {
+          "Name": "ABCB1-Weiss 2022",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "n-deacetyl-ketoconazole"
+        },
+        {
+          "Name": "CYP3A4-Weiss 2022",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "ketoconazole"
+        },
+        {
+          "Name": "CYP2C8-Test",
+          "MoleculeName": "CYP2C8",
+          "CompoundName": "ketoconazole"
+        },
+        {
+          "Name": "ABCB1-Weiss 2022",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "ketoconazole"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "18.1.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Imatinib"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "18.1.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 493.615
+          },
+          "Values": [
+            116.78,
+            393.06,
+            646.04,
+            729.48,
+            812.31,
+            760.600037,
+            574.74,
+            496.249969,
+            361.759979,
+            193.66
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "18.1.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.499899983,
+          1.0007,
+          1.5005,
+          1.9993999,
+          2.50030017,
+          4.0002,
+          6.0002,
+          8.0001,
+          11.9998,
+          23.9999
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "18.2.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Imatinib"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "18.2.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 493.615
+          },
+          "Values": [
+            0.17445,
+            0.416580021,
+            0.58837,
+            0.75055,
+            0.909040034,
+            1.12768,
+            0.866769969,
+            0.75821,
+            0.52515,
+            0.27955
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "18.2.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.50090003,
+          0.99969995,
+          1.49959993,
+          2.0004,
+          2.49929976,
+          4.0,
+          6.0,
+          7.9989,
+          12.0007,
+          23.9998
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "18.1.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "18.1.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL|ObservedData|Peripheral Venous Blood|Plasma|Imatinib|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 479.59
+          },
+          "Values": [
+            0.010761,
+            0.035795,
+            0.0689460039,
+            0.083468996,
+            0.090941,
+            0.084217,
+            0.073032,
+            0.065216,
+            0.051175002,
+            0.037006
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "18.1.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.5003,
+          0.999500036,
+          1.5005,
+          1.9998,
+          2.49919987,
+          3.99980021,
+          5.999,
+          8.0001,
+          11.9993,
+          24.0014
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "18.2.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "N-Desmethyl-Imatinib"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "18.2.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI|ObservedData|Peripheral Venous Blood|Plasma|N-Desmethyl-Imatinib|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 479.59
+          },
+          "Values": [
+            0.00751099968,
+            0.028388,
+            0.041135,
+            0.05183,
+            0.0615380034,
+            0.076705,
+            0.063758,
+            0.0594009981,
+            0.043268,
+            0.035678
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "18.2.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.5004,
+          0.999600053,
+          1.5009,
+          2.0012,
+          2.50059986,
+          3.99890018,
+          6.0001,
+          7.9992,
+          11.9994,
+          24.0005
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ],
+  "ObservedDataClassifications": [
+    {
+      "Name": "18_Dutreix 2004",
+      "Classifiables": [
+        "18.1.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL",
+        "18.2.A_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI",
+        "18.1.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_CONTROL",
+        "18.2.B_Dutreix 2004_po(cap)_200 mg_sd_fed_P_H_DDI"
+      ]
+    }
+  ],
+  "SimulationClassifications": [
+    {
+      "Name": "Ketoconazole_DDI",
+      "Classifiables": [
+        "18.1.A_Dutreix 2004_male_perm. int. opt._Weibull_CONTROL",
+        "18.1.B_Dutreix 2004_male_perm. int. opt._Weibull_CONTROL",
+        "18.2.A_Dutreix 2004_male_perm. int. opt._Weibull_DDI",
+        "18.2.B_Dutreix 2004_male_perm. int. opt._Weibull_DDI"
+      ]
+    }
+  ]
+}
